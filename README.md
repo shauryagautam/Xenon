@@ -7,7 +7,8 @@ Done Both Section A & B
 Repo Link:
 # Round -2 Code
 
- URL: https://xenon.shauryagautam2001.workers.dev/
+ URL:https://xenon-beige.vercel.app/
+ Repo link : https://github.com/shauryagautam/xenontask2.git
  
 Frontend used - HTML, CSS, JAVASCRIPT
 
